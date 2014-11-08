@@ -1,0 +1,15 @@
+{
+  "name": "node-recaptcha",
+  "version": "0.0.0",
+  "description": "Google's Recaptcha server-side module for Node.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "captcha",
+    "recaptcha"
+  ],
+  "author": "Victor Palyvoda",
+  "license": "MIT"
+}
