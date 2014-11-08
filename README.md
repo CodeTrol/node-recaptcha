@@ -3,11 +3,16 @@ node-recaptcha
 
 Google's Recaptcha server-side module for Node.JS
 
+## Setup
 
-Sample usage:
+Before you can use this module, you must visit http://www.google.com/recaptcha
+to request a public and private API key for your domain.
+
+## Sample usage
+
 ```javascript
 
-var Recaptcha = require('recaptcha');
+var Recaptcha = require('node-recaptcha');
 
 Recaptcha.privateKey = 'Your private key...';
 
