@@ -3,6 +3,12 @@ node-recaptcha
 
 Google's Recaptcha server-side module for Node.JS
 
+## Installation
+
+```
+npm install node-recaptcha
+```
+
 ## Setup
 
 Before you can use this module, you must visit http://www.google.com/recaptcha
